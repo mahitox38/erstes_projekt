@@ -15,5 +15,5 @@ In Zukunft wird das Projekt möglicherweise erweitert.
 
 ## Mitwirken
 Ideen und Beiträge sind willkommen!
-Wenn du etwas Beitragen möchtest, öffne ein Issua oder erstelle einen Pull Request.
+Wenn du etwas Beitragen möchtest, öffne ein Issue oder erstelle einen Pull Request.
 
