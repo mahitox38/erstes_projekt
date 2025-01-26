@@ -17,3 +17,5 @@ In Zukunft wird das Projekt möglicherweise erweitert.
 Ideen und Beiträge sind willkommen!
 Wenn du etwas Beitragen möchtest, öffne ein Issue oder erstelle einen Pull Request.
 
+## Kontakt
+muhamedserim273@gmail.com
